@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vinay Gopalaiah.
 
-I am a Principal Software Engineer with an experience of 7+ years in software development, architecting and delivering high quality websites and mobile applications (Hybrid) in various industries. I have a proven track record of delivering high quality products to customers. I have extensively worked with Small to Medium sized companies and enjoyed the challenges of building scalable, performant and cost effective solutions.
+I am a Senior Software Engineer with an experience of 9+ years in software development, architecting and delivering high quality websites and mobile applications (Hybrid) in various industries. I have a proven track record of delivering high quality products to customers. I have extensively worked with Small to Medium sized companies and enjoyed the challenges of building scalable, performant and cost effective solutions.
 
 Well versed with modern web technologies and frameworks, including React, Node, GraphQL, Angular, Django. I love to learn new technologies and am always looking to improve my skills.
 
